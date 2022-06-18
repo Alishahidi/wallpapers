@@ -1,6 +1,6 @@
-#+TITLE: Ali Shahidi's dotfiles
+#+TITLE: Ali Shahidi's wallpapers
 #+AUTHOR: Ali Shahidi
-#+DESCRIPTION: Ali Shahidi's personal dotfiles.
+#+DESCRIPTION: My selected wallpapers.
 #+OPTIONS: num:nil ^:{}
 #+STARTUP: showeverything
 
